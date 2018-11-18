@@ -4,11 +4,16 @@ Management of a company - Change Management - Service/Product Management ...
 Change the Business
 ===================
 
-Program management
-------------------
+Program management: MSP
+-----------------------
 
 Project management
 ------------------
+
+* PMBoK
+* Prince2
+
+PMI
 
 
 Run the Business
@@ -28,8 +33,8 @@ Production line management
 Transversal to both parts
 =========================
 
-Portfolio management
---------------------
+Portfolio management: MoP
+-------------------------
 
 Product management
 ------------------
@@ -55,3 +60,7 @@ Meeting management
 Time management
 ---------------
 
+Offices
+-------
+
+P3O:Portfolio, Program and Project Offices
